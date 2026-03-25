@@ -1,0 +1,5 @@
+{
+  "name": "Vaquinha Digital",
+  "description": "Uma plataforma moderna e minimalista para arrecadação de fundos com integração PIX via IronPay.",
+  "requestFramePermissions": []
+}
